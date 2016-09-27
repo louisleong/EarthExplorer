@@ -1,1 +1,1 @@
-"# EarthExplorer" 
+Demo for earth explorer
