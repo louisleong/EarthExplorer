@@ -1,0 +1,2 @@
+c:\users\louis\documents\visual studio 2015\Projects\EarthExplorer\EarthExplorer.UWP\EarthExplorer.UWP.csproj;x86
+c:\users\louis\documents\visual studio 2015\Projects\EarthExplorer\EarthExplorer\EarthExplorer\EarthExplorer.csproj;neutral

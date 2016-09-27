@@ -1,0 +1,7 @@
+c:\users\louis\documents\visual studio 2015\Projects\EarthExplorer\EarthExplorer\EarthExplorer\bin\Debug\EarthExplorer.dll
+c:\users\louis\documents\visual studio 2015\Projects\EarthExplorer\EarthExplorer\EarthExplorer\bin\Debug\EarthExplorer.pdb
+c:\users\louis\documents\visual studio 2015\Projects\EarthExplorer\EarthExplorer\EarthExplorer\obj\Debug\EarthExplorer.csprojResolveAssemblyReference.cache
+c:\users\louis\documents\visual studio 2015\Projects\EarthExplorer\EarthExplorer\EarthExplorer\obj\Debug\EarthExplorer.dll
+c:\users\louis\documents\visual studio 2015\Projects\EarthExplorer\EarthExplorer\EarthExplorer\obj\Debug\EarthExplorer.pdb
+C:\Users\louis\Documents\Visual Studio 2015\Projects\EarthExplorer\EarthExplorer\EarthExplorer\obj\Debug\EarthExplorer.dll.mdb
+C:\Users\louis\Documents\Visual Studio 2015\Projects\EarthExplorer\EarthExplorer\EarthExplorer\bin\Debug\EarthExplorer.dll.mdb

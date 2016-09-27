@@ -1,0 +1,14 @@
+C:\Users\louis\Documents\Visual Studio 2015\Projects\EarthExplorer\EarthExplorer\EarthExplorer.iOS\bin\iPhone\Debug\EarthExplorer.iOS.exe
+C:\Users\louis\Documents\Visual Studio 2015\Projects\EarthExplorer\EarthExplorer\EarthExplorer.iOS\bin\iPhone\Debug\EarthExplorer.iOS.pdb
+C:\Users\louis\Documents\Visual Studio 2015\Projects\EarthExplorer\EarthExplorer\EarthExplorer.iOS\bin\iPhone\Debug\EarthExplorer.dll
+C:\Users\louis\Documents\Visual Studio 2015\Projects\EarthExplorer\EarthExplorer\EarthExplorer.iOS\bin\iPhone\Debug\EarthExplorer.pdb
+C:\Users\louis\Documents\Visual Studio 2015\Projects\EarthExplorer\EarthExplorer\EarthExplorer.iOS\bin\iPhone\Debug\EarthExplorer.dll.mdb
+C:\Users\louis\Documents\Visual Studio 2015\Projects\EarthExplorer\EarthExplorer\EarthExplorer.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\louis\Documents\Visual Studio 2015\Projects\EarthExplorer\EarthExplorer\EarthExplorer.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+C:\Users\louis\Documents\Visual Studio 2015\Projects\EarthExplorer\EarthExplorer\EarthExplorer.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Users\louis\Documents\Visual Studio 2015\Projects\EarthExplorer\EarthExplorer\EarthExplorer.iOS\obj\iPhone\Debug\optimized\
+C:\Users\louis\Documents\Visual Studio 2015\Projects\EarthExplorer\EarthExplorer\EarthExplorer.iOS\obj\iPhone\Debug\EarthExplorer.iOS.csprojResolveAssemblyReference.cache
+C:\Users\louis\Documents\Visual Studio 2015\Projects\EarthExplorer\EarthExplorer\EarthExplorer.iOS\obj\iPhone\Debug\EarthExplorer.iOS.exe
+C:\Users\louis\Documents\Visual Studio 2015\Projects\EarthExplorer\EarthExplorer\EarthExplorer.iOS\obj\iPhone\Debug\EarthExplorer.iOS.pdb
+C:\Users\louis\Documents\Visual Studio 2015\Projects\EarthExplorer\EarthExplorer\EarthExplorer.iOS\obj\iPhone\Debug\EarthExplorer.iOS.exe.mdb
+C:\Users\louis\Documents\Visual Studio 2015\Projects\EarthExplorer\EarthExplorer\EarthExplorer.iOS\bin\iPhone\Debug\EarthExplorer.iOS.exe.mdb

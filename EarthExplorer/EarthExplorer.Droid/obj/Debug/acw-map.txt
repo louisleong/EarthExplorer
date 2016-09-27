@@ -1,0 +1,8 @@
+EarthExplorer.Droid.MainActivity, EarthExplorer.Droid;md57836f006942f22d21b4f844c6273b89a.MainActivity
+EarthExplorer.Droid.MainActivity, EarthExplorer.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md57836f006942f22d21b4f844c6273b89a.MainActivity
+EarthExplorer.Droid.MainActivity;md57836f006942f22d21b4f844c6273b89a.MainActivity
+earthexplorer.droid.MainActivity;md57836f006942f22d21b4f844c6273b89a.MainActivity
+EarthExplorer.Droid.POIAdapter, EarthExplorer.Droid;md57836f006942f22d21b4f844c6273b89a.POIAdapter
+EarthExplorer.Droid.POIAdapter, EarthExplorer.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md57836f006942f22d21b4f844c6273b89a.POIAdapter
+EarthExplorer.Droid.POIAdapter;md57836f006942f22d21b4f844c6273b89a.POIAdapter
+earthexplorer.droid.POIAdapter;md57836f006942f22d21b4f844c6273b89a.POIAdapter
